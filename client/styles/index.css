@@ -1,0 +1,6 @@
+
+
+/* import all other css files in here and attach to HTML File */
+@import './page/Main.css';
+@import './globals/normalize.css';
+@import './globals/fonts.css';
