@@ -1,5 +1,5 @@
 // Example App Component
 
-export const MyApp = () => {
+const MyApp = () => {
   return (document.getElementById("demo").innerText = "Hello, I'm Javascript");
 };
